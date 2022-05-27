@@ -3,7 +3,7 @@
     <v-progress-linear
       background-color="pink"
       color="pink lighten-3"
-      height="18"
+      height="16"
       value="35"
       buffer-value="75"
     >

@@ -35,7 +35,7 @@
 <!-- Actions -->
 <template v-slot:item.actions="{ item }">
 <v-btn
-  class="primary mr-3 rounded-xl"
+  class="primary mr-3 rounded-lg"
 >
   <v-icon
     @click="editItem(item)"
@@ -46,7 +46,7 @@
 
 
 <v-btn
-  class="info mr-3 rounded-xl"
+  class="info mr-3 rounded-lg"
 >
   <v-icon
     class=""
@@ -57,7 +57,7 @@
 </v-btn>
 
 <v-btn
-  class="red rounded-xl"
+  class="red rounded-lg"
 >
       <v-icon
         small

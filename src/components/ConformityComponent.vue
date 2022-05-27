@@ -8,7 +8,7 @@
         <div class="grey--text text--lighten-1">
             HIGHSTATE
         </div>
-        <v-card width="80%" height="18px" class="rounded-0 bg-transparent ">
+        <v-card width="80%" height="16px" class="rounded-0 bg-transparent ">
             <LinearChart/>
         </v-card>
     </div>
@@ -17,7 +17,7 @@
         <div class="grey--text text--lighten-1">
             PYVERSION
         </div>
-        <v-card width="80%" height="18px" class="rounded-0 bg-transparent ">
+        <v-card width="80%" height="16px" class="rounded-0 bg-transparent ">
             <div class="green darken-1">
     <v-progress-linear
       background-color="green lighten-1"
@@ -37,7 +37,7 @@
         <div class="grey--text text--lighten-1" style="width:97px">
         FOO
         </div>
-        <v-card width="80%" height="18px" class="rounded-0 bg-transparent ">
+        <v-card width="80%" height="16px" class="rounded-0 bg-transparent ">
         
             <div class="blue darken-3">
     <v-progress-linear
