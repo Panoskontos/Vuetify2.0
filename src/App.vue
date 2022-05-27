@@ -109,7 +109,7 @@
           </v-list-item>
   </router-link >
 
-<router-link to="/about">
+<router-link to="/minions">
       <v-list-item link>
             <v-list-item-icon>
               <v-icon>mdi-vector-point</v-icon>
@@ -142,7 +142,7 @@
         </v-list>
       </v-navigation-drawer>
 
-      <v-main >
+      <v-main>
         
           <router-view/>
         </v-main>
