@@ -118,12 +118,14 @@
           </v-list-item>
 </router-link>
           
+<router-link to="/keys">
           <v-list-item link>
             <v-list-item-icon>
               <v-icon>mdi-key-chain</v-icon>
             </v-list-item-icon>
             <v-list-item-title>Keys</v-list-item-title>
           </v-list-item>
+</router-link>
 
           <v-list-item link>
             <v-list-item-icon>
